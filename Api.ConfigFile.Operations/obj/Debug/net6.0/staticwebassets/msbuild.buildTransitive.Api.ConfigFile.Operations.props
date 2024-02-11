@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Api.ConfigFile.Operations.props" />
+</Project>

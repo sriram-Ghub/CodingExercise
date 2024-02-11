@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Api.ConfigFile.Operations.props" />
+</Project>
